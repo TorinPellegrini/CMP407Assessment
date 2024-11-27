@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 .idea
 Platforms
+!Plugins/SteamAudio/Source/SteamAudioSDK/lib/windows-x64/.lib
+!Plugins/SteamAudio/Source/SteamAudioSDK/lib/windows-x64/.dll
