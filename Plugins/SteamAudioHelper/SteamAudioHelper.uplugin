@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SteamAudioHelper",
+	"Description": "Helper functionality for the Steam Audio Plugin",
+	"Category": "Audio",
+	"CreatedBy": "Denis Dimitrov",
+	"CreatedByURL": "https://sites.google.com/view/denis-dimitrov",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SteamAudioHelper",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+            "AdditionalDependencies": 
+            [
+              "SteamAudio"
+            ]
+		}
+	]
+}
